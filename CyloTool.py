@@ -186,7 +186,7 @@ if __name__ == "__main__":
             console.print("[bold yellow][bold white](22)[/bold white]: Unlock Equipaments M     [bold red]3K[/bold red][/bold yellow]")
             console.print("[bold yellow][bold white](23)[/bold white]: Unlock Equipaments F     [bold red]3K[/bold red][/bold yellow]")
             console.print("[bold yellow][bold white](24)[/bold white]: Change Race Wins         [bold red]1K[/bold red][/bold yellow]")
-            console.print("[bold yellow][bold white](25)[/bold white]: Change Race Loses        [bold red]1K[/bold red][/bold yellow]")            [bold red]7K[/bold red][/bold yellow]")
+            console.print("[bold yellow][bold white](25)[/bold white]: Change Race Loses        [bold red]1K[/bold red][/bold yellow]")            
             console.print("[bold yellow][bold white](26)[/bold white]: Custom HP                [bold red]2.5K[/bold red][/bold yellow]")
             console.print("[bold yellow][bold white](27)[/bold white]: Custom Angle             [bold red]1.5K[/bold red][/bold yellow]")
             console.print("[bold yellow][bold white](28)[/bold white]: Custom Tire burner       [bold red]1.5K[/bold red][/bold yellow]")
