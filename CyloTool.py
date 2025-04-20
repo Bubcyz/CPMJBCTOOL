@@ -196,7 +196,10 @@ if __name__ == "__main__":
             console.print("[bold yellow][bold white](32)[/bold white]: Remove Front Bumper      [bold red]2K[/bold red][/bold yellow]")
             console.print("[bold yellow][bold white](33)[/bold white]: Custom Spoiler           [bold red]10K[/bold red][/bold yellow]")
             console.print("[bold yellow][bold white](34)[/bold white]: Custom BodyKit           [bold red]10K[/bold red][/bold yellow]")
-               console.print("[bold red]===============[bold white][ 𝐂𝐏𝐌 ][/bold white]===============[/bold red]")
+            console.print("[bold yellow][bold white](0) [/bold white]: Exit From Tool [/bold yellow]")
+         
+            console.print("[bold red]===============[bold white][ 𝐂𝐏𝐌 ][/bold white]===============[/bold red]")
+         
             service = IntPrompt.ask(f"[bold][?] Select a Service [red][1-{choices[-1]} or 0][/red][/bold]", choices=choices, show_choices=False)
             
             console.print("[bold red]===============[bold white][ 𝐂𝐏𝐌 ][/bold white]===============[/bold red]")
